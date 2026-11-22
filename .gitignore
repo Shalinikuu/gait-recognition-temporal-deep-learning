@@ -6,4 +6,4 @@ __pycache__/
 *.pt
 *.npy
 venv/
-.DS_Store
+.DS_Store*.tar.gz
