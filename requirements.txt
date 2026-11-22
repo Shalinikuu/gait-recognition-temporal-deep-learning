@@ -1,5 +1,7 @@
 numpy
 opencv-python
-matplotlib
 scikit-learn
+matplotlib
 tqdm
+pandas
+# torch/torchvision alag install karo (CUDA version ke hisaab se)

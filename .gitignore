@@ -1,14 +1,9 @@
-# dataset aur trained models: kabhi push nahi karna
 data/
 checkpoints/
+runs/
+__pycache__/
 *.pth
 *.pt
 *.npy
-*.pkl
-
-# Python
-__pycache__/
-*.pyc
-gaitenv/
-.venv/
-.ipynb_checkpoints/
+venv/
+.DS_Store
